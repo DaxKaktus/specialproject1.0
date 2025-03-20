@@ -26,7 +26,7 @@ html {
   .flower{
     position: absolute;
     width: 50px;
-    animation: float 10s linear infinite;
+    animation: float 10s ease-in-out infinite;
     opacity: 0.8;
   }
   
